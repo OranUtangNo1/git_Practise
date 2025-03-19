@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ImageProccessingApp
 {
-    internal class Const
+    public enum Processing
     {
+        Gray,
+        Gauss,
+        Contrast,
+        Saturation
     }
 }

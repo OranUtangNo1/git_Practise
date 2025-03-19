@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HSvkW7IIhT+IBKtN98AwhdnNz6H4A4RJfWc3y6D3sgBc/547tYyGgZS6oSJrcNsGx/pj1Ao85A80bBpqIqvVCw==",
+  "dgSpecHash": "zo1DhEzNmu9bXgbwRGKtdBcUxizoqZz5kMdeQAgAu8BLfTLHewvhirIWUyBh2gUvQ+xFbz754fMrCGEXWn8d+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\0621\\Desktop\\tmp\\git\\ImageProccessingApp\\ImageProccessingApp.csproj",
+  "projectFilePath": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProccessingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\0621\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
     "C:\\Users\\0621\\.nuget\\packages\\opencvsharp4\\4.10.0.20241108\\opencvsharp4.4.10.0.20241108.nupkg.sha512",

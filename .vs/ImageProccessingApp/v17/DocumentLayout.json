@@ -1,7 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0621\\Desktop\\tmp\\git\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\imageprocess\\opencvrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\imageprocess\\opencvrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\imageprocess\\processes\\contrastprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\imageprocess\\processes\\contrastprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\imageprocess\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\imageprocess\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\imageprocess\\imagefilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\imageprocess\\imagefilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\imageprocess\\processes\\iprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\imageprocess\\processes\\iprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\imageprocess\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\imageprocess\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|c:\\users\\0621\\desktop\\tmp\\opencvsharppractise\\imageproccessingapp\\imageprocess\\processes\\saturationprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF106F4A-9DE7-4B5D-9411-A3A9E773A486}|ImageProccessingApp\\ImageProccessingApp.csproj|solutionrelative:imageproccessingapp\\imageprocess\\processes\\saturationprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +50,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProcess.cs",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\Processes\\IProcess.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\ImageProcess\\Processes\\IProcess.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\Processes\\IProcess.cs",
+              "RelativeToolTip": "ImageProccessingApp\\ImageProcess\\Processes\\IProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:09:21.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenCVRapper.cs",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\OpenCVRapper.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\ImageProcess\\OpenCVRapper.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\OpenCVRapper.cs",
+              "RelativeToolTip": "ImageProccessingApp\\ImageProcess\\OpenCVRapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:24:11.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageFileManager.cs",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\ImageFileManager.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\ImageProcess\\ImageFileManager.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\ImageFileManager.cs",
+              "RelativeToolTip": "ImageProccessingApp\\ImageProcess\\ImageFileManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:17:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\Form1.cs",
+              "RelativeToolTip": "ImageProccessingApp\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:18:47.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\Program.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\Program.cs",
+              "RelativeToolTip": "ImageProccessingApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:18:41.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "ImageProccessingApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:18:25.27Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContrastProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\Processes\\ContrastProcessor.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\ImageProcess\\Processes\\ContrastProcessor.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\Processes\\ContrastProcessor.cs",
+              "RelativeToolTip": "ImageProccessingApp\\ImageProcess\\Processes\\ContrastProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:18:19.421Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -30,6 +162,49 @@
             {
               "$type": "Bookmark",
               "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Const.cs",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\Const.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\ImageProcess\\Const.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\Const.cs",
+              "RelativeToolTip": "ImageProccessingApp\\ImageProcess\\Const.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:15:57.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaturationProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\Processes\\SaturationProcessor.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\ImageProcess\\Processes\\SaturationProcessor.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\Processes\\SaturationProcessor.cs",
+              "RelativeToolTip": "ImageProccessingApp\\ImageProcess\\Processes\\SaturationProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:13:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\ImageProcessor.cs",
+              "RelativeDocumentMoniker": "ImageProccessingApp\\ImageProcess\\ImageProcessor.cs",
+              "ToolTip": "C:\\Users\\0621\\Desktop\\tmp\\OpenCVSharpPractise\\ImageProccessingApp\\ImageProcess\\ImageProcessor.cs",
+              "RelativeToolTip": "ImageProccessingApp\\ImageProcess\\ImageProcessor.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:08:39.191Z",
+              "EditorCaption": ""
             }
           ]
         }

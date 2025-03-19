@@ -9,13 +9,11 @@ namespace ImageProccessingApp
         public Form1()
         {
             InitializeComponent();
-            this.imageProcessingData = new ImageProcessingData();
-            this.imageFileManager = new ImageFileManager();
         }
 
-        ImageProcessingData imageProcessingData { get; set; }
-        ImageFileManager imageFileManager { get; set; }
-
+        /// <summary>
+        /// 選択画像
+        /// </summary>
         private Bitmap selectedImage;
         Bitmap SelectedImage
         {
@@ -28,6 +26,10 @@ namespace ImageProccessingApp
             }
         }
 
+
+        /// <summary>
+        /// 処理済み画像
+        /// </summary>
         private Image processedImage;
         Image ProcessedImage
         {
@@ -39,6 +41,12 @@ namespace ImageProccessingApp
                 this.PicBox_ProcessedImage.Image = ImageFileManager.ResizeImage(this.PicBox_ProcessedImage.Size, processedImage);
             }
         }
+
+        /// <summary>
+        /// Select Imageﾎﾞﾀﾝ押下時処理
+        /// </summary>
+        /// <param name="sender">発行元情報</param>
+        /// <param name="e">イベント情報</param>
 
         private void Btn_SelectImage_Click(object sender, EventArgs e)
         {
@@ -55,6 +63,11 @@ namespace ImageProccessingApp
             }
         }
 
+        /// <summary>
+        /// Clearﾎﾞﾀﾝ押下時処理
+        /// </summary>
+        /// <param name="sender">発行元情報</param>
+        /// <param name="e">イベント情報</param>
         private void Btn_Clear_Click(object sender, EventArgs e)
         {
             if(this.SelectedImage != null)
@@ -72,6 +85,12 @@ namespace ImageProccessingApp
             this.PicBox_ProcessedImage.Image = null;
         }
 
+
+        /// <summary>
+        /// ProcessImageﾎﾞﾀﾝ押下時処理
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Btn_ProcessImage_Click(object sender, EventArgs e)
         {
             var targetProcesses = this.GetSelectedProcessingMethods();
@@ -82,6 +101,10 @@ namespace ImageProccessingApp
             this.ProcessedImage = processedBitmap;
         }
 
+        /// <summary>
+        /// 適用する処理項目取得
+        /// </summary>
+        /// <returns>適用項目のリスト</returns>
         private IEnumerable<Processing> GetSelectedProcessingMethods()
         {
             var selectedMethods = new List<Processing>();
@@ -96,21 +119,6 @@ namespace ImageProccessingApp
             }
 
             return selectedMethods;
-        }
-    }
-
-    /// <summary>
-    /// 画像処理データクラス
-    /// </summary>
-    public class ImageProcessingData
-    {
-        int Contrast {  get; set; }
-        int Satulation { get; set; }
-
-        public ImageProcessingData() 
-        {
-            this.Contrast = 0;
-            this.Satulation = 0;
         }
     }
 }
